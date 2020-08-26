@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "tiptap": "^1.29.6",
+    "tiptap-commands": "^1.14.6",
     "vue": "^2.6.11"
   },
   "devDependencies": {
