@@ -148,7 +148,7 @@ export default {
         extensions: [
           new Image()
         ],
-        content: `<p><img src="https://cdn.meeple.link/uploads/5f43ae380074eb0007fb30bc.jpeg"></p>`,
+        content: `<p><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"></p>`,
         editable: false
       })
     }
